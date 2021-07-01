@@ -1,4 +1,4 @@
-# CUCEI-marathon-app
+# CUCEI-marathon-app (Maratón CUCEI 2021)
 Aplicación móvil desarrollada con React Native como parte de un proyecto de la materia Programación Para Internet de mi universidad (CUCEI)
 
 ## Antes de correr la app:
